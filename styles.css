@@ -1,0 +1,7 @@
+.banner{
+    width: 100%; 
+    overflow: hidden; 
+    position: relative; 
+    height: 640px;
+    background-image: img="catalyst-new-homepage-banner.jpg" ;
+}
